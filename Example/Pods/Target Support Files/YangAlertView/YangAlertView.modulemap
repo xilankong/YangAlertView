@@ -1,0 +1,6 @@
+framework module YangAlertView {
+  umbrella header "YangAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

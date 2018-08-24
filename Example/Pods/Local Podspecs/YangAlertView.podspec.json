@@ -1,0 +1,22 @@
+{
+  "name": "YangAlertView",
+  "version": "0.1.0",
+  "summary": "A short description of YangAlertView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xilankong/YangAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xilankong": "xilankong@126.com"
+  },
+  "source": {
+    "git": "https://github.com/xilankong/YangAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YangAlertView/Classes/**/*"
+}

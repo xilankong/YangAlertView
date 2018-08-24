@@ -1,0 +1,16 @@
+PODS:
+  - YangAlertView (0.1.0)
+
+DEPENDENCIES:
+  - YangAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  YangAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YangAlertView: 54c1113ddabe376ddced0149f2c20c289ae64031
+
+PODFILE CHECKSUM: 6d25c374a6fe6105625a3eab89b188f74bf2a035
+
+COCOAPODS: 1.5.0
