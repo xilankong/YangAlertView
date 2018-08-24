@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YangAlertView_Example' do
+  pod 'YangAlertView', :path => '../'
+
+  target 'YangAlertView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
